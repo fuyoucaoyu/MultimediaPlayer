@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">多媒体播放器</string>
+
+    <!-- user related -->
+    <string name="default_username">用户名</string>
+
+    <!-- navigation drawer -->
+    <string name="drawer_allmusic_title">所有音乐</string>
+    <string name="drawer_playlists_title">播放列表</string>
+
+</resources>
